@@ -15,7 +15,7 @@ export default class MyCard extends Component{
             </div>
             <Grid>
               <Cell col={3}>
-                <Card className="showcard" shadow={0} style={{ width: "300px", height: "320px" }}>
+                <Card className="showcard" shadow={2} style={{ width: "320px", height: "320px" }}>
                   <img width="250px" src="http://s3.weddbook.com/t4/2/4/1/2414976/blue-saphire-ring-engagement-ring-rose-gold-engagement-ring-gem-ring-gemstone-ring-vintage-engagement-ring-sapphire-ring-oval-ring.jpg" />
                   <CardText>
                     Lorem ipsum dolor sit amet, consectetur adipiscing
@@ -24,7 +24,7 @@ export default class MyCard extends Component{
                 </Card>
               </Cell>
               <Cell col={3}>
-                <Card className="showcard" shadow={0} style={{ width: "320px", height: "320px" }}>
+                <Card className="showcard" shadow={2} style={{ width: "320px", height: "320px" }}>
                   <img width="250px" src="http://s3.weddbook.com/t4/2/4/1/2414976/blue-saphire-ring-engagement-ring-rose-gold-engagement-ring-gem-ring-gemstone-ring-vintage-engagement-ring-sapphire-ring-oval-ring.jpg" />
                   <CardText>
                     Lorem ipsum dolor sit amet, consectetur adipiscing
@@ -33,7 +33,7 @@ export default class MyCard extends Component{
                 </Card>
               </Cell>
               <Cell col={3}>
-                <Card className="showcard" shadow={0} style={{ width: "320px", height: "320px" }}>
+                <Card className="showcard" shadow={2} style={{ width: "320px", height: "320px" }}>
                   <img width="250px" src="http://s3.weddbook.com/t4/2/4/1/2414976/blue-saphire-ring-engagement-ring-rose-gold-engagement-ring-gem-ring-gemstone-ring-vintage-engagement-ring-sapphire-ring-oval-ring.jpg" />
                   <CardText>
                     Lorem ipsum dolor sit amet, consectetur adipiscing
@@ -42,7 +42,7 @@ export default class MyCard extends Component{
                 </Card>
               </Cell>
               <Cell col={3}>
-                <Card className="showcard" shadow={0} style={{ width: "320px", height: "320px" }}>
+                <Card className="showcard" shadow={2} style={{ width: "320px", height: "320px" }}>
                   <img width="250px" src="http://s3.weddbook.com/t4/2/4/1/2414976/blue-saphire-ring-engagement-ring-rose-gold-engagement-ring-gem-ring-gemstone-ring-vintage-engagement-ring-sapphire-ring-oval-ring.jpg" />
                   <CardText>
                     Lorem ipsum dolor sit amet, consectetur adipiscing
