@@ -38,6 +38,9 @@ export default class Articles extends Component<{},IArticle>{
               <Cell col={4}>
                 <h4>Whats' new?</h4>
                 <img width="360" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgsn8m0kF1ILsxtPyvRiVJKv-_GaOUi36dNOptfDeUFS5BDfrcGA" />
+                <h5>
+                  <Link to="/">{this.state.topic}</Link>
+                </h5>
                 <p>
                   Cras sit amet nibh libero, in gravida nulla. Nulla vel
                   metus scelerisque ante sollicitudin commodo. Cras
@@ -49,6 +52,9 @@ export default class Articles extends Component<{},IArticle>{
               <Cell col={4}>
                 <h4>Gallery</h4>
                 <img width="360" src="https://greenweddingshoes.com/wp-content/uploads/2015/01/tylerbranch-wedding-01.jpg" />
+                <h5>
+                  <Link to="/">{this.state.topic}</Link>
+                </h5>
                 <p>
                   Cras sit amet nibh libero, in gravida nulla. Nulla vel
                   metus scelerisque ante sollicitudin commodo. Cras

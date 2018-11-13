@@ -14,7 +14,7 @@ export default class MyNav extends Component {
   public render() {
     return (
        
-       <div style={{ height: '40em', position: "relative" }}>
+       <div style={{ height: '50em', position: "relative" }}>
         <Layout fixedHeader={false}>
           <Header className='header-color' title=''>
             <Navigation>
